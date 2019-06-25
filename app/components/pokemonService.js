@@ -1,4 +1,4 @@
-import Pokemon from "../model/pokemon.js";
+import Pokemon from "../model/Pokemon.js";
 
 
 

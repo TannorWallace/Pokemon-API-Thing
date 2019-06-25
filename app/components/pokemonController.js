@@ -1,4 +1,4 @@
-import PokemonService from "./pokemonService.js";
+import PokemonService from "./PokemonService.js";
 
 let _pokemonService = new PokemonService()
 

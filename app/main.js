@@ -1,4 +1,4 @@
-import PokemonController from "./components/pokemonController.js"
+import PokemonController from "./components/PokemonController.js"
 
 class App {
   constructor() {
